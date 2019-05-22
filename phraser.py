@@ -9,7 +9,8 @@ class Phraser():
         self.adjectives = []
         self.verbs = []
         self.nouns = []
-        self.links = ["the", "in", "a", "has", "by", "are", "my", "and", "on", "an", "of", "to", "as", "with", "i", "have"] # linking phrase words, conjunctions, prepositions etc.
+        self.links = ["the", "in", "&", ")", "(", ",", "!", "a", "has", "by", "are", "my", "and", "on", "an", "of", "to", "as", "with",
+                      "i", "have"] # linking phrase words, conjunctions, prepositions etc.
         self.phrases = []
 
     def read(self, filename):
@@ -32,7 +33,7 @@ class Phraser():
 
                 word = word.replace('.', '')
 
-                if word in self.links:
+                if word in self.links:              # is this a linking word?
                     titlephrase.append(word)
                 elif word.endswith('ing'):          # put doing words in verbs
                     self.verbs.append(word)

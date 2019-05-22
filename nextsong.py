@@ -16,6 +16,14 @@ phraser.read(titles)
 phraser.sort()
 
 # Generate a song title from the phraser
-songTitle = phraser.generate()
+songtitle = phraser.generate()
 
-print(songTitle)
+# Get a random intro line
+alllines = os.path.join(dirname, 'frontmanlines.txt');
+f = open(alllines, 'r')
+
+lines = f.read().lower().split("\n")
+
+line = random.choice(lines)
+
+print(line + songtitle)

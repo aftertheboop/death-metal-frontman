@@ -58,7 +58,7 @@ class Phraser():
         thephrase = phrase.split(' ')
 
         for key, word in enumerate(thephrase):
-
+            # put everything back together randomly, woo
             if word == '%n':
                 thephrase[key] = random.choice(self.nouns)
             elif word == '%a':

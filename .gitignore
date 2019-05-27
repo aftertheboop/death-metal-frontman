@@ -104,6 +104,4 @@ venv.bak/
 .mypy_cache/
 .idea/
 
-source.txt
-frontmanlines.txt
 credentials.py

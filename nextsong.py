@@ -22,7 +22,7 @@ songtitle = phraser.generate()
 alllines = os.path.join(dirname, 'frontmanlines.txt');
 f = open(alllines, 'r')
 
-lines = f.read().lower().split("\n")
+lines = f.read().split("\n")
 
 line = random.choice(lines)
 
@@ -30,5 +30,5 @@ auth = tweepy.OAuthHandler(credentials.CONSUMER_KEY, credentials.CONSUMER_SECRET
 auth.set_access_token(credentials.ACCESS_KEY, credentials.ACCESS_SECRET)
 api = tweepy.API(auth)
 
-api.update_status(line + songtitle)
+api.update_status(line + ' "' + songtitle + '!"')
 print('Posted: ' + line + songtitle)

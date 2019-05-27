@@ -1,4 +1,4 @@
-import os, random
+import os, random, tweepy, credentials
 
 from phraser import Phraser
 
@@ -26,4 +26,9 @@ lines = f.read().lower().split("\n")
 
 line = random.choice(lines)
 
-print(line + songtitle)
+auth = tweepy.OAuthHandler(credentials.CONSUMER_KEY, credentials.CONSUMER_SECRET)
+auth.set_access_token(credentials.ACCESS_KEY, credentials.ACCESS_SECRET)
+api = tweepy.API(auth)
+
+api.update_status(line + songtitle)
+print('Posted: ' + line + songtitle)

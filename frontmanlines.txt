@@ -1,14 +1,15 @@
-You know this next one! It's off our latest album. This is,
-Who wants to hear a new one? This is our new single,
-Alright, we've got one more song for you tonight. This track is,
-I want to see a fuckin' pit for this one. This song is called,
-Let's go,
-I wanna thank everyone for coming out tonight. This is our last one... This is,
-Show me your fuckin' horns for,
-Make space for a Wall of Death, this next one is,
-*4 cymbal count in*
-*4 snare count in*
-Oh yeah, are you ready for another one? This track is,
-You know this next one,
-You know we couldn't finish the set without playing this one,
-This one's off our debut album. This is,
+You know this next one! It's off our latest album. This is, %s!
+Who wants to hear a new one? This is our new single, %s!
+Alright, we've got one more song for you tonight. This track is, %s!
+I want to see a fuckin' pit for this one. This song is called, %s!
+%s, let's go!
+I wanna thank everyone for coming out tonight. This is our last one... This is, %s!
+This next one is %s, show me your fuckin' horns!
+Make space for a Wall of Death, this next one is, %s!
+%s *slow 4 cymbal count in*
+*fast 4 snare count in* %s!
+Oh yeah, are you ready for another one? This track is, %s!
+You know this next one, %s!
+You know we couldn't finish the set without playing this one. This is, %s!
+This one's off our debut album. This is, %s!
+I wanna see a circle pit for this one! This track is called, %s!

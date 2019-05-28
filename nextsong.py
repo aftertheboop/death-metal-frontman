@@ -1,4 +1,4 @@
-import os, random, tweepy
+import os, random, re, tweepy
 from os import environ
 
 from phraser import Phraser
@@ -27,9 +27,12 @@ lines = f.read().split("\n")
 
 line = random.choice(lines)
 
+tweet = line.replace("%s", '"' + songtitle + '"')
+
+
 auth = tweepy.OAuthHandler(environ['CONSUMER_KEY'], environ['CONSUMER_SECRET'])
 auth.set_access_token(environ['ACCESS_KEY'], environ['ACCESS_SECRET'])
 api = tweepy.API(auth)
 
 api.update_status(line + ' "' + songtitle + '!"')
-print('Posted: ' + line + songtitle)
+# print('Posted: ' + tweet)

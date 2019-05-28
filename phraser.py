@@ -7,10 +7,13 @@ class Phraser():
         # Going to keep things simple with these three word types
         self.alltitles = []
         self.adjectives = []
-        self.verbs = []
+        self.verbsing = []
+        self.verbsed = []
         self.nouns = []
-        self.links = ["the", "in", "&", ")", "(", ",", "!", "a", "has", "by", "are", "my", "and", "on", "an", "of", "to", "as", "with",
-                      "i", "have"] # linking phrase words, conjunctions, prepositions etc.
+        # linking phrase words, conjunctions, prepositions etc.
+        self.shorts = ["the", "in", "&", ")", "(", ",", "!", "a", "has", "are", "my", "and", "on", "an", "of", "i",
+                       "as", "with", "at", "to", "have", "this", "no", "i'm", "for", "by", "ov", "me", "was", "it",
+                       "your", "you", "me", "ain't", "aint"]
         self.phrases = []
 
     def read(self, filename):
@@ -27,29 +30,33 @@ class Phraser():
         for title in self.alltitles:
 
             explodedtitle = title.split(" ")
-            titlephrase = []
 
-            for word in explodedtitle:
+            if len(explodedtitle) > 1:
 
-                word = word.replace('.', '')
+                titlephrase = []
 
-                if word in self.links:              # is this a linking word?
-                    titlephrase.append(word)
-                elif word.endswith('ing'):          # put doing words in verbs
-                    self.verbs.append(word)
-                    titlephrase.append('%v')
-                elif word.endswith('ed'):           # put 'ed words in verbs
-                    self.verbs.append(word)
-                    titlephrase.append('%v')
-                elif word.endswith('ly'):           # put 'ly words in adjectives (fuzzy)
-                    self.adjectives.append(word)
-                    titlephrase.append('%a')
-                else:
-                    self.nouns.append(word)         # everything else is a noun 'cos that's how english works
-                    titlephrase.append('%n')
+                for word in explodedtitle:
 
-            if titlephrase not in self.phrases:
-                self.phrases.append(' '.join(titlephrase))
+                    # word = word.replace('.', '')
+                    word = re.sub(r'\W+', '', word)
+
+                    if word in self.shorts:              # is this a linking word?
+                        titlephrase.append(word)
+                    elif word.endswith('ing'):          # put doing words in verbs
+                        self.verbsing.append(word)
+                        titlephrase.append('%ving')
+                    elif word.endswith('ed'):           # put 'ed words in verbs
+                        self.verbsed.append(word)
+                        titlephrase.append('%ved')
+                    elif word.endswith('ly'):           # put 'ly words in adjectives (fuzzy)
+                        self.adjectives.append(word)
+                        titlephrase.append('%a')
+                    else:
+                        self.nouns.append(word)         # everything else is a noun 'cos that's how english works
+                        titlephrase.append('%n')
+
+                if titlephrase not in self.phrases:
+                    self.phrases.append(' '.join(titlephrase))
 
     def generate(self):
 
@@ -63,15 +70,11 @@ class Phraser():
                 thephrase[key] = random.choice(self.nouns)
             elif word == '%a':
                 thephrase[key] = random.choice(self.adjectives)
-            elif word == '%v':
-                thephrase[key] = random.choice(self.verbs)
+            elif word == '%ving':
+                thephrase[key] = random.choice(self.verbsing)
+            elif word == '%ved':
+                thephrase[key] = random.choice(self.verbsed)
             else:
                 thephrase[key] = word
 
         return ' '.join(thephrase).upper()
-
-
-
-
-
-

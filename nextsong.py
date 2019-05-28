@@ -1,4 +1,4 @@
-import os, random, re, tweepy
+import os, random, tweepy
 from os import environ
 
 from phraser import Phraser

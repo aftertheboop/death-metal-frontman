@@ -13,3 +13,8 @@ You know this next one, %s!
 You know we couldn't finish the set without playing this one. This is, %s!
 This one's off our debut album. This is, %s!
 I wanna see a circle pit for this one! This track is called, %s!
+We don't play this one very often, but figured we'd dust it off tonight. This is, %s!
+%s! Bang your fuckin' heads!
+Are you ready to mosh? This is, %s!
+One, Two Three, Four! %s!
+How're you all doin' tonight? You havin' a good time? You want another? Alright, this is %s!

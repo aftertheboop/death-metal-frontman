@@ -13,7 +13,9 @@ class Phraser():
         # linking phrase words, conjunctions, prepositions etc.
         self.shorts = ["the", "in", "&", ")", "(", ",", "!", "a", "has", "are", "my", "and", "on", "an", "of", "i",
                        "as", "with", "at", "to", "have", "this", "no", "i'm", "for", "by", "ov", "me", "was", "it",
-                       "your", "you", "me", "ain't", "aint", "is", "he", "her", "his", "hers", "they", "their", "our"]
+                       "your", "you", "me", "ain't", "aint", "is", "he", "her", "his", "hers", "they", "their", "our",
+                       "but", "where", "am", "this", "that", "who", "thy", "them", "or", "from", "she", "we", "what",
+                       "you", "upon", "up", "down", "which", "too", "many", "so"]
         self.phrases = []
 
     def read(self, filename):

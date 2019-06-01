@@ -294,8 +294,6 @@ The Shround A Hellish Value
 The Scrolls
 Awakening Of The Liar
 Grail In The Flesh
-Spirit Of Gospa
-Anaclasis
 Necropolis
 Hex
 Malediction
@@ -425,7 +423,8 @@ The Circular Ruins
 Heroes And Tombs
 The Conspiracy Of The Blind
 Order From Chaos
-The Book Of Sand (The Abomination)
+The Book Of Sand
+The Abomination
 The Head Of The Hydra
 City Of Mirrors
 Eater Of Gods
@@ -579,11 +578,13 @@ Bleed For The Devil
 Damnation
 Blasphemy
 Evil Spells
-The Invocation / Chapel Of Ghouls
+The Invocation
+Chapel Of Ghouls
 Unholy Blasphemies
 Angel Of Disease
 Azagthoth
-The Gate / Lord Of All Fevers
+The Gate
+Lord Of All Fevers
 Hell Spawn
 Abominations
 Demon Seed
@@ -604,13 +605,13 @@ The Ancient Ones
 In Remembrance
 Rapture
 Pain Divine
-World Of Shit (The Promised Land)
+World Of Shit
+The Promised Land
 Vengeance Is Mine
 Lions Den
 Blood On My Hands
 Angel Of Disease
 Sworn To The Black
-Nar Mattaru
 God Of Emptiness
 God Of Emptiness
 Sworn To The Black
@@ -627,11 +628,9 @@ Inquisition Burn With Me
 Hatework
 Heaving Earth
 Prayer Of Hatred
-Bil Ur-Sag
 Nothing Is Not
 Chambers Of Dis
 Disturbance In The Great Slumber
-U-Mu La Mah-Ri
 Hellspawn: The Rebirth
 Covenant Of Death
 Hymn To A Gas Giant
@@ -646,7 +645,6 @@ To The Victor The Spoils
 At One With Nothing
 Opening Of The Gates
 Secured Limitations
-I
 God Of The Forsaken
 Cleansed In Pestilence
 Enshrined By Grace
@@ -677,12 +675,9 @@ Where The Slime Live
 Caesar's Palace
 Inquisition
 Burn With Me
-Umulamahri
-Kawazu
 Summoning Redemption
 He Who Sleeps
 Enshrined By Grace
-Omni Potens
 Too Extreme!
 Blades For Baal
 I Am Morbid
@@ -754,7 +749,6 @@ No Love Lost
 Heartwork
 Embodiment
 This Mortal Coil
-Arbeit Macht Fleisch
 Blind Bleeding The Blind
 Doctrinal Expletives
 Death Certificate
@@ -779,7 +773,7 @@ I Told You So
 Corporate Rock Really Does Suck
 Buried Dreams
 No Love Lost
-Rot 'n' Roll
+Rot Roll
 This Is Your Life
 Tools Of The Trade
 Pyosisified
@@ -799,5 +793,4 @@ Mount Of Execution
 Intensive Battery Brooding
 A Wraith In The Apparatus
 Intensive Battery Brooding
-Zochrot
 Livestock Marketplace

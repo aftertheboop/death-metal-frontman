@@ -261,93 +261,6 @@ The Lonely Deceased
 Gone But Not Forgotten
 This Mortal Coil
 The Swarm
-Holy Dead Trinity
-No Life After Death
-Victims
-God Overslept
-The Kill
-Share Your Blood With Daemon
-World Has To Die
-Dead And Mistified
-Enter The Hell
-Convocation
-Lord Is Avenger
-Paradise As Lost
-Pagan Triumph
-Satan's Horde
-Apocalypse
-And The Sin Becomes
-Sectarian Murder
-The Fifth Eternally Despised
-Through Hate To Eternity
-Shame Of The Creator
-Resurrected But Failed
-Cain's Way
-Holy Dead Trinity
-Future Is Mayhem
-From Cain To Cadmon
-Flagellation
-Anti-God Extremity
-Close To The Nephilim
-Immolate The Pope
-The Shround A Hellish Value
-The Scrolls
-Awakening Of The Liar
-Grail In The Flesh
-Necropolis
-Hex
-Malediction
-Euphoria Of The New Breed
-Razorblade
-Immortality
-Fountains Of Blood To Reach Heavens
-Metamorphosis
-Threnody
-Catharsis
-Resurrection Machine
-The Evangelistic Pain
-Omega
-Erased
-Genesis
-Erebos
-Quintessence Of Higher Suffering
-Trinity Moons
-Hero Cults
-Transsubstance
-Hexagony
-Wrists
-Luminous Horizon
-Watchful Eye Ov Doom
-Eternal Might
-Alchemy Ov Blood
-Timeless Kingdom
-Festival Ov Slaves
-Sadness Will Last Forever
-Solarflesh
-Endless Purity
-Mesmerized
-Hatehammer
-Venom
-Fall Of All Icons
-Lord, Make Me An Instrument Of Thy Wrath
-Death Liberator
-Leviathan
-Doomsday Celebrities
-Hate Is The Law
-Valley Of Darkness
-Crusade Zero
-The Omnipresence
-Rise Omega The Consequence
-Dawn Of War
-Black Aura Debris
-The Reaping
-Asuric Being
-Indestructible Pillar
-Svarog's Mountain
-Into Burning Gehenna
-Sea Of Rubble
-Ghostforce
-Walk Through Fire
 The Smouldering Remains
 Medical Miscarriage
 Ancient Servant
@@ -486,7 +399,6 @@ Wretched Human Mirror
 Let The Stillborn Come To Me
 Total Death Exhumed
 Anne
-Church Of Vastitas
 Famine Of God's Word
 Mental Abortion
 Beyond Cremation
@@ -589,7 +501,6 @@ Hell Spawn
 Abominations
 Demon Seed
 Welcome To Hell
-Intro
 Fall From Grace
 Brainstorm
 Rebel Lands
@@ -636,7 +547,6 @@ Covenant Of Death
 Hymn To A Gas Giant
 Invocation Of The Continual One
 Ascent Through The Spheres
-Hymnos Rituales De Guerra
 Trooper
 Summoning Redemption
 Ageless, Still I Am
@@ -794,3 +704,175 @@ Intensive Battery Brooding
 A Wraith In The Apparatus
 Intensive Battery Brooding
 Livestock Marketplace
+Praise Of The Almighty
+Dogma Condemned
+Catacombs
+Nailed To Obscurity
+By His Own Decree
+The Creed Of Chaotic Divinity
+Dethroned
+Sacrilige Of Hate
+Spiritual Holocaust
+Darkness By Oath
+Saturated In Dejection
+Our Beckoning
+King Of All Kings
+The Obscure Terror
+Servants Of The Gods
+Beyond Redemption
+Born By Fire
+Chants In Declaration
+Rising Legions Of Black
+In Spirit
+The Power Of Mana
+Powers That Be
+Two Demons
+Behold Judas
+The Victorious Reign
+To Know Our Enemies
+Path To The Eternal Gods
+The Plague Of Humanity
+It Is Our Will
+Sons Of Darkness
+Faceless One
+Hell Envenom
+Whom Gods May Destroy
+Bringer Of Storms
+The Funerary March
+Thus Salvation
+Proclamation Of The Damned
+Fury Within
+Coronach
+Rebirth
+The Eternal Ruler
+Thorns Of Acacia
+Haunting Abound
+The Art Of Redemption
+Phoenix Amongst The Ashes
+Deathveil
+Hatesworn
+Lake Ablaze
+The Fire Of Resurrection
+Locust Swarm
+The Stygian Deep
+Pathogenic Apathy
+The Chosen One
+Zealot, Crusader Of War
+Order Of The Arcane Scripture
+Chaos Theory
+Internal Bleeding
+Godly Beings
+Till Death
+Slowly We Rot
+Immortal Visions
+Gates To Hell
+Words Of Evil
+Suffocation
+Intoxicated
+Deadly Intentions
+Blood Soaked
+Find The Arise
+Like The Dead
+Infected
+Body Bag
+Chopped In Half
+Circle Of The Tyrants
+Dying
+Find The Arise
+Cause Of Death
+Memories Remain
+Turned Inside Out
+Infected
+Memories Remain
+Chopped In Half
+I'm In Pain
+Back To One
+Dead Silence
+In The End Of Life
+Sickness
+Corrosive
+Killing Time
+The End Complete
+Rotting Ways
+I'm In Pain
+Killing Time
+Don't Care
+World Demise
+Burned In
+Redefine
+Paralyzing
+Lost
+Solid State
+Splattered
+Final Thoughts
+Boiling Point
+Set In Stone
+Kill For Me
+Threatening Skies
+By The Light
+Inverted
+Platonic Disease
+Download
+Rewind
+Feed On The Weak
+Lockdown
+Pressure Point
+Back From The Dead
+Redneck Stomp
+On The Floor
+Insane
+Blindsided
+Back Inside
+Mindset
+Stand Alone
+Slow Death
+Denied
+Lockjaw
+Face Your God
+Lasting Presence
+Evil Ways
+Drop Dead
+Bloodshot
+Seal Your Fate
+Feel The Pain
+Contrast The Dead
+Second Chance
+Lies
+In Your Head
+Exectioner Returns
+List Of Dead
+Blood To Give
+Lost Inside
+Outside My Head
+Payback
+Your Darkest Day
+This Life
+See Me Now
+Fields Of Pain
+Violent Dreams
+Truth Be Told
+Forces Realign
+Left To Die
+Centuries Of Lies
+Violent By Nature
+Pain Inside
+Visions In My Head
+Back On Top
+Violence
+Inked In Blood
+Deny You
+Within A Dying Breed
+Minds Of The World
+Out Of Blood
+Paralyzed With Fear
+Brave
+Sentence Day
+A Lesson In Vengeance
+End It Now
+Kneel Before Me
+It Lives
+Betrayed
+Turned To Stone
+Straight To Hell
+Ten Thousand Ways To Die
+No Hope

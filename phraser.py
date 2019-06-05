@@ -15,7 +15,7 @@ class Phraser():
                        "as", "with", "at", "to", "have", "this", "no", "i'm", "for", "by", "ov", "me", "was", "it",
                        "your", "you", "me", "ain't", "aint", "is", "he", "her", "his", "hers", "they", "their", "our",
                        "but", "where", "am", "this", "that", "who", "thy", "them", "or", "from", "she", "we", "what",
-                       "you", "upon", "up", "down", "which", "too", "many", "so"]
+                       "you", "upon", "up", "down", "which", "too", "many", "so", "be", "all"]
         self.phrases = []
 
     def read(self, filename):

@@ -11,11 +11,14 @@ class Phraser():
         self.verbsed = []
         self.nouns = []
         # linking phrase words, conjunctions, prepositions etc.
-        self.shorts = ["the", "in", "&", ")", "(", ",", "!", "a", "has", "are", "my", "and", "on", "an", "of", "i",
-                       "as", "with", "at", "to", "have", "this", "no", "i'm", "for", "by", "ov", "me", "was", "it",
-                       "your", "you", "me", "ain't", "aint", "is", "he", "her", "his", "hers", "they", "their", "our",
-                       "but", "where", "am", "this", "that", "who", "thy", "them", "or", "from", "she", "we", "what",
-                       "you", "upon", "up", "down", "which", "too", "many", "so", "be", "all"]
+        self.shorts = ["!", "&", "(", ")", ",", "101", "69", "a", "ain't", "aint", "all", "am", "an", "and", "another",
+                       "are", "as", "at", "be", "before", "but", "by", "come", "don't", "dont", "down", "for", "from",
+                       "had", "has", "have", "he", "her", "hers", "his", "i", "i'm", "i've", "im", "in", "inside",
+                       "into", "is", "it", "it's", "its", "itself", "ive", "let", "many", "me", "must", "my", "no",
+                       "of", "on", "or", "our", "ov", "own", "put", "shall", "she", "so", "that", "the", "their",
+                       "them", "they", "this", "through", "thus", "thy", "till", "to", "too", "under", "up", "upon",
+                       "us", "was", "we", "what", "when", "where", "which", "who", "will", "with", "within", "you",
+                       "you", "your"]
         self.phrases = []
 
     def read(self, filename):
@@ -80,3 +83,4 @@ class Phraser():
                 thephrase[key] = word
 
         return ' '.join(thephrase).upper()
+

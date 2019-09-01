@@ -1,188 +1,178 @@
-﻿Shredded Humans.
-Edible Autopsy.
-Put Them To Death.
-Mangled.
-Scattered Remains, Splattered Brains.
-Born In A Casket.
-Rotting Head.
-The Undead Will Feast.
-Bloody Chunks.
-A Skull Full Of Maggots.
-Buried In The Backyard.
-Meat Hook Sodomy.
-Gutted.
-Living Dissection.
-Under The Rotted Flesh.
-Covered With Sores.
-Vomit The Soul.
-Butchered At Birth.
-Rancid Amputation.
-Innards Decay.
-Hammer Smashed Face.
-I Cum Blood.
-Split Wide Open.
-The Cryptic Stench.
-Post Mortal Ejaculation.
-Beyond The Cemetery.
-Meat Hook Sodomy.
-Zero The Hero.
-Shredded Humans.
-Hammer Smashed Face.
-The Exorcist.
-Staring Through The Eyes Of The Dead.
-Fucked With A Knife.
-Pulverized.
-Return To Flesh.
-The Pick-Axe Murders.
-She Was Asking For It.
-The Bleeding.
-Force Fed Broken Glass.
-An Experiment In Homicide.
-Devoured By Vermin.
-Mummified In Barbed Wire.
-Perverse Suffering.
-Disfigured.
-Bloodlands.
-Puncture Wound Massacre.
-Relentless Beating.
-Absolute Hatred.
-Eaten From Inside.
-Orgasm Through Torture.
-Monolith.
-I Will Kill You.
-Disposal Of The Body.
-Sentenced To Burn.
-Blood Drenched Execution.
-Gallery Of Suicide.
-Dismembered And Molested.
-From Skin To Liquid.
-Unite The Dead.
-Stabbed In The Throat.
-Chambers Of Blood.
-Headless.
-Every Bone Broken.
-Centuries Of Torment.
-Crushing The Despised.
-Pounded Into Dust.
-Dead Human Collection.
-Unleashing The Bloodthirsty.
-The Spine Splitter.
-Ecstacy In Decay.
-Coffinfeeder.
-Hacksaw Decapitation.
-Blowtorch Slaughter.
-Sickening Metamorphosis.
-Condemned To Agony.
-Savage Butchery.
-Hatchet To The Head.
-Pit Of Zombies.
-Dormant Bodies Bursting.
-Compelled To Lacerate.
-Drowning In Viscera.
-Hung And Bled.
-Sanded Faceless.
-Mutation Of The Cadaver.
-When Death Replaces Life.
-Grotesque.
-No Remorse.
-Systematic Elimination.
-Worm Infested.
-Demon's Night.
-The Undead Will Feast.
-Confessions.
-No Remorse.
-Severed Head Stoning.
-Psychotic Precision.
-Decency Defied.
-Frantic Disembowelment.
-The Wretched Spawn.
-Cyanide Assassin.
-Festering In The Crypt.
-Nothing Left To Mutilate.
-Blunt Force Castration.
-Rotted Body Landslide.
-Slain.
-Bent Backwards And Broken.
-They Deserve To Die.
-The Time To Kill Is Now.
-Make Them Suffer.
-Murder Worship.
-Necrosadistic Warning.
-Five Nails Through The Neck.
-Purification By Fire.
-Death Walking Terror.
-Barbaric Bludgeonings.
-The Discipline Of Revenge.
-Brain Removal Device.
-Maniacal.
-Submerged In Boiling Flesh.
-Infinite Misery.
-Priest Of Sodom.
-Scalding Hail.
-To Decompose.
-A Cauldron Of Hate.
-Beheading And Burning.
-Evidence In The Furnace.
-Carnivorous Swarm.
-Evisceration Plague.
-Shatter Their Bones.
-Carrion Sculpted Entity.
-Unnatural.
-Skewered From Ear To Eye.
-Skull Fragment Armor.
-Demented Aggression.
-Sarcophagic Frenzy.
-Scourge Of Iron.
-Encased In Concrete.
-As Deep As The Knife Will Go.
-Intestinal Crank.
-Followed Home Then Killed.
-The Strangulation Chair.
-Caged Contorted.
-Crucifier Avenged.
-Rabid.
-Torn Through.
-High Velocity Impact Spatter.
-Sadistic Embodiment.
-Kill Or Become.
-A Skeletal Domain.
-Headlong Into Carnage.
-The Murderer's Pact.
-Funeral Cremation.
-Icepick Lobotomy.
-Vector Of Cruelty.
-Bloodstained Cement.
-Asphyxiate To Resuscitate.
-Hollowed Bodies.
-Only One Will Die.
-Red Before Black.
-Code Of The Slashers.
-Shedding My Human Skin.
-Remaimed.
-Firestorm Vengeance.
-Heads Shoveled Off.
-Scavenger Consuming Death.
-In The Midst Of Ruin.
-Destroyed Without A Trace.
-Hideous Ichor.
+﻿Edible Autopsy
+Put Them To Death
+Mangled
+Scattered Remains, Splattered Brains
+Born In A Casket
+Rotting Head
+The Undead Will Feast
+Bloody Chunks
+A Skull Full Of Maggots
+Buried In The Backyard
+Meat Hook Sodomy
+Gutted
+Living Dissection
+Under The Rotted Flesh
+Covered With Sores
+Vomit The Soul
+Butchered At Birth
+Rancid Amputation
+Innards Decay
+Hammer Smashed Face
+I Cum Blood
+Split Wide Open
+The Cryptic Stench
+Post Mortal Ejaculation
+Beyond The Cemetery
+Zero The Hero
+Shredded Humans
+The Exorcist
+Staring Through The Eyes Of The Dead
+Fucked With A Knife
+Pulverized
+Return To Flesh
+The Pick-Axe Murders
+She Was Asking For It
+The Bleeding
+Force Fed Broken Glass
+An Experiment In Homicide
+Devoured By Vermin
+Mummified In Barbed Wire
+Perverse Suffering
+Disfigured
+Bloodlands
+Puncture Wound Massacre
+Relentless Beating
+Absolute Hatred
+Eaten From Inside
+Orgasm Through Torture
+Monolith
+I Will Kill You
+Disposal Of The Body
+Sentenced To Burn
+Blood Drenched Execution
+Gallery Of Suicide
+Dismembered And Molested
+From Skin To Liquid
+Unite The Dead
+Stabbed In The Throat
+Chambers Of Blood
+Headless
+Every Bone Broken
+Centuries Of Torment
+Crushing The Despised
+Pounded Into Dust
+Dead Human Collection
+Unleashing The Bloodthirsty
+The Spine Splitter
+Ecstacy In Decay
+Coffinfeeder
+Hacksaw Decapitation
+Blowtorch Slaughter
+Sickening Metamorphosis
+Condemned To Agony
+Savage Butchery
+Hatchet To The Head
+Pit Of Zombies
+Dormant Bodies Bursting
+Compelled To Lacerate
+Drowning In Viscera
+Hung And Bled
+Sanded Faceless
+Mutation Of The Cadaver
+When Death Replaces Life
+Grotesque
+No Remorse
+Systematic Elimination
+Worm Infested
+Demon's Night
+Confessions
+Severed Head Stoning
+Psychotic Precision
+Decency Defied
+Frantic Disembowelment
+The Wretched Spawn
+Cyanide Assassin
+Festering In The Crypt
+Nothing Left To Mutilate
+Blunt Force Castration
+Rotted Body Landslide
+Slain
+Bent Backwards And Broken
+They Deserve To Die
+The Time To Kill Is Now
+Make Them Suffer
+Murder Worship
+Necrosadistic Warning
+Five Nails Through The Neck
+Purification By Fire
+Death Walking Terror
+Barbaric Bludgeonings
+The Discipline Of Revenge
+Brain Removal Device
+Maniacal
+Submerged In Boiling Flesh
+Infinite Misery
+Priest Of Sodom
+Scalding Hail
+To Decompose
+A Cauldron Of Hate
+Beheading And Burning
+Evidence In The Furnace
+Carnivorous Swarm
+Evisceration Plague
+Shatter Their Bones
+Carrion Sculpted Entity
+Unnatural
+Skewered From Ear To Eye
+Skull Fragment Armor
+Demented Aggression
+Sarcophagic Frenzy
+Scourge Of Iron
+Encased In Concrete
+As Deep As The Knife Will Go
+Intestinal Crank
+Followed Home Then Killed
+The Strangulation Chair
+Caged Contorted
+Crucifier Avenged
+Rabid
+Torn Through
+High Velocity Impact Spatter
+Sadistic Embodiment
+Kill Or Become
+A Skeletal Domain
+Headlong Into Carnage
+The Murderer's Pact
+Funeral Cremation
+Icepick Lobotomy
+Vector Of Cruelty
+Bloodstained Cement
+Asphyxiate To Resuscitate
+Hollowed Bodies
+Only One Will Die
+Code Of The Slashers
+Shedding My Human Skin
+Remaimed
+Firestorm Vengeance
+Heads Shoveled Off
+Scavenger Consuming Death
+In The Midst Of Ruin
+Destroyed Without A Trace
+Hideous Ichor
 All My Best Friends Are Bullets
 To You, Contorionist
 The Middle Goes Down
 This Ain't No Fucking Love Song
 A Dead Refrain
 Burning The Hive
-The Blackest Incarnation
 Closed Casket Requiem
-Burning The Hive
 Unhallowed
 Funeral Thirst
 Elder Misanthropy
 Contagion
 When The Last Grave Has Emptied
 Thy Horror Cosmic
-The Blackest Incarnation
 Hymn For The Wretched
-Closed Casket Requiem
 Apex
 Built For Sin
 I'm Charming
@@ -194,7 +184,6 @@ Dave Goes To Hollywood
 Miscarriage
 Spite Suicide
 Miasma
-Everything Went Black
 What A Horrible Night To Have A Curse
 Virally Yours
 I Worship Only What You Bleed
@@ -204,7 +193,6 @@ Of Darkness Spawned
 Climactic Degradation
 To A Breathless Oblivion
 Warborn
-Black Valor
 Necropolis
 A Selection Unnatural
 Denounced, Disgraced
@@ -228,7 +216,6 @@ Great Burning Nullifier
 Blood In The Ink
 In Hell Is Where She Waits For Me
 Goat Of Departure
-Into The Everblack
 Phantom Limb Masturbation
 Control
 Blood Mine
@@ -240,7 +227,6 @@ Receipt
 Vlad, Son Of The Dragon
 Abysmal
 Re-Faced
-Threat Level No.3
 The Fog
 Stygiophobic
 Asylum
@@ -248,7 +234,6 @@ The Advent
 That Cannot Die Which Eternally Is Dead
 We Dead Are Best Left Underground
 Hellion
-Der Ton
 Widowmaker
 Of God And Serpent, Of Spectre And Snake
 Matriarch
@@ -271,7 +256,8 @@ Souls Of The Evil Departed
 At The Gates
 All Life Ends
 City Of Screaming Statues
-The Red In The Sky Is Ours / The Season To Come
+The Red In The Sky Is Ours
+The Season To Come
 Kingdom Gone
 Through Gardens Of Grief
 Within
@@ -279,8 +265,6 @@ Windows
 Claws Of Laughter Dead
 Neverwhere
 The Scar
-Night Comes, Blood Black
-City Of Screaming Statues
 Beyond Good And Evil
 The Break Of Autumn
 Non-Divine
@@ -291,15 +275,11 @@ Blood Of The Sunsets
 The Burning Darkness
 Ever-Opening Flower
 Through The Red
-The Swarm
 Terminal Spirit Disease
 And The World Returned
 Forever Blind
 The Fevered Circle
 The Beautiful Wound
-All Life Ends
-The Burning Darkness
-Kingdom Gone
 Blinded By Fear
 Slaughter Of The Soul
 Cold
@@ -314,22 +294,7 @@ The Flames Of The End
 Legion
 The Dying
 Captor Of Sin
-Unto Others
-Suicide Nation
-The Red In The Sky Is Ours
-Kingdom Gone
-Windows
 Ever Opening Flower
-The Architects
-Primal Breath
-Blood Of The Sunsets
-The Burning Darkness
-The Swarm
-Terminal Spirit Disease
-Forever Blind
-The Beautiful Wound
-Blinded By Fear
-Slaughter Of The Soul
 Death And The Labyrinth
 At War With Reality
 The Circular Ruins
@@ -348,14 +313,12 @@ Language Of The Dead
 To Drink From The Night Itself
 A Stare Bound In Stone
 Palace Of Lepers
-Daggers Of Black Haze
 The Chasm
 In Nameless Sleep
 The Colours Of The Beast
 A Labyrinth Of Tombs
 Seas Of Starvation
 In Death They Shall Burn
-The Mirror Black
 Breeding Death
 Ominous Bloodvomit
 Furnace Funeral
@@ -376,7 +339,6 @@ Outnumbering The Day
 Feeding The Undead
 Eaten
 Bastard Son Of God
-Year Of The Cadaver Race
 The Ascension
 Draped In Disease
 Stillborn Saviour
@@ -466,7 +428,6 @@ Symbolic
 Zero Tolerance
 Empty Words
 Sacred Serenity
-1,000 Eyes
 Without Judgement
 Crystal Mountain
 Misanthrope
@@ -491,7 +452,6 @@ Damnation
 Blasphemy
 Evil Spells
 The Invocation
-Chapel Of Ghouls
 Unholy Blasphemies
 Angel Of Disease
 Azagthoth
@@ -509,8 +469,6 @@ Day Of Suffering
 Blessed Are The Sick
 Leading The Rats
 Thy Kingdom Come
-Unholy Blasphemies
-Abominations
 Desolate Ways
 The Ancient Ones
 In Remembrance
@@ -521,11 +479,7 @@ The Promised Land
 Vengeance Is Mine
 Lions Den
 Blood On My Hands
-Angel Of Disease
-Sworn To The Black
 God Of Emptiness
-God Of Emptiness
-Sworn To The Black
 Dominate
 Where The Slime Live
 Eyes To See, Ears To Hear
@@ -570,28 +524,12 @@ Memories Of The Past
 Victorious March Of Rain The Conqueror
 Drum Check
 Born Again
-Immortal Rites
-Chapel Of Ghouls
-Fall From Grace
-Day Of Suffering
-Blessed Are The Sick
-Abominations
-World Of Shit
-The Promised Land
-Angel Of Disease
-God Of Emptiness
-Dominate
-Where The Slime Live
-Caesar's Palace
 Inquisition
 Burn With Me
-Summoning Redemption
-He Who Sleeps
-Enshrined By Grace
 Too Extreme!
 Blades For Baal
 I Am Morbid
-10 More Dead
+Ten More Dead
 Nevermore
 Beauty Meets Beast
 Radikult
@@ -648,7 +586,6 @@ Carneous Cacoffiny
 Lavaging Expectorate Of Lysergide Composition
 Forensic Clinicism
 The Sanguine Article
-Incarnated Solvent Abuse
 Tools Of The Trade
 Pyosified
 Still Rotten To The Gore
@@ -658,15 +595,12 @@ Carnal Forge
 No Love Lost
 Heartwork
 Embodiment
-This Mortal Coil
 Blind Bleeding The Blind
 Doctrinal Expletives
 Death Certificate
-Heartwork
 This Is Your Life
 Keep On Rotting In The Free World
 Tomorrow Belongs To Nobody
-Black Star
 Cross My Heart
 Child's Play
 Room 101
@@ -681,17 +615,7 @@ Ever Increasing Circles
 Blood-Spattered Banner
 I Told You So
 Corporate Rock Really Does Suck
-Buried Dreams
-No Love Lost
 Rot Roll
-This Is Your Life
-Tools Of The Trade
-Pyosisified
-Still Rotten To The Gore
-Hepatic Tissue Fermentation
-Genital Grinder
-Hepatic Tissue Fermentation
-Exhume To Consume
 Thrasher's Abbatoir
 Cadaver Pouch Conveyor System
 A Congealed Clot Of Blood
@@ -702,7 +626,6 @@ Captive Bolt Pistol
 Mount Of Execution
 Intensive Battery Brooding
 A Wraith In The Apparatus
-Intensive Battery Brooding
 Livestock Marketplace
 Praise Of The Almighty
 Dogma Condemned
@@ -722,7 +645,6 @@ Servants Of The Gods
 Beyond Redemption
 Born By Fire
 Chants In Declaration
-Rising Legions Of Black
 In Spirit
 The Power Of Mana
 Powers That Be
@@ -767,7 +689,6 @@ Slowly We Rot
 Immortal Visions
 Gates To Hell
 Words Of Evil
-Suffocation
 Intoxicated
 Deadly Intentions
 Blood Soaked
@@ -778,13 +699,9 @@ Body Bag
 Chopped In Half
 Circle Of The Tyrants
 Dying
-Find The Arise
 Cause Of Death
 Memories Remain
 Turned Inside Out
-Infected
-Memories Remain
-Chopped In Half
 I'm In Pain
 Back To One
 Dead Silence
@@ -794,8 +711,6 @@ Corrosive
 Killing Time
 The End Complete
 Rotting Ways
-I'm In Pain
-Killing Time
 Don't Care
 World Demise
 Burned In
@@ -852,7 +767,6 @@ Fields Of Pain
 Violent Dreams
 Truth Be Told
 Forces Realign
-Left To Die
 Centuries Of Lies
 Violent By Nature
 Pain Inside
@@ -876,3 +790,629 @@ Turned To Stone
 Straight To Hell
 Ten Thousand Ways To Die
 No Hope
+Pentagram
+Burning In Hell
+Evil Warriors
+Seven Churches
+Satan's Curse
+Holy Hell
+Twisted Minds
+Fallen Angel
+Death Metal
+The Heretic
+Tribulation
+March To Die
+Phantasm
+No Will To Live
+Beyond The Gates
+The Beasts Of The Apocalypse
+Seance
+Restless Dead
+Dog Fight
+My Belief
+The Eyes Of Horror
+Swing Of The Axe
+Storm In My Mind
+Concessions Of Pain
+Forgotten Existence
+Challenge For Power
+In Battle There Is No Law
+Psychological Warfare
+Denial Of Destiny
+Blind To Defeat
+Concession Of Pain
+Attack In The Aftermath
+Nuclear Annihilation
+Eternal War
+Through The Eye Of Terror
+Dark Millennium
+All That Remains
+Lost Souls Domain
+Plague Bearer
+World Eater
+Drowned In Torment
+Realm Of Chaos
+Prophet Of Hatred
+Cenotaph
+Destructive Infinity
+Realm Of Chaos Live
+Domination
+Warmaster
+Afterlife
+Unleashed Upon Mankind
+What Dwells Within
+The Shreds Of Sanity
+Profane Creation
+Final Revelation
+War Master
+Rebirth Of Humanity
+Spearhead
+Crown Of Life
+Dying Creed
+Lament
+Icon
+Embers
+Where Next To Conquer
+As The World Burns
+This Time Is War
+Ritual
+Celestial Sanctuary
+Through The Ages
+War
+Remembrance
+When Glory Beckons
+Graven Image
+Lest We Forget
+A Silent Demise
+Forever Fallen
+Armageddon Bound
+Zeroed
+Laid To Waste
+Return From Chaos
+Mercenary
+To The Last
+Powder Burns
+Behind Enemy Lines
+No Guts, No Glory
+Sixth Chapter
+Infiltrator
+Overlord
+Contact Wait Out
+Inside The Wire
+Honour
+Suspect Hostile
+Valour
+K-Machine
+A Hollow Truce
+Pride
+Covert Ascension
+At First Light
+Entrenched
+The Killchain
+Granite Wall
+Those Once Loyal
+Anti-tank Dead Armour
+Last Stand Of Humanity
+Salvo
+When Cannons Fade
+A Symbol Of Eight
+Liege Of Inveracity
+Effigy Of The Forgotten
+Infecting The Crypts
+Seeds Of The Suffering
+Habitual Infamy
+Reincremation
+Mass Obliteration
+Involuntary Slaughter
+Jesus Wept
+Synthetically Revived
+Catatonia
+Human Waste
+Beginning Of Sorrow
+Breeding The Spawn
+Epitaph Of The Credulous
+Marital Decimation
+Prelude To Repulsion
+Anomalistic Offerings
+Ornaments Of Decrepancy
+Ignorant Deprivation
+Pierced From Within
+Thrones Of Blood
+Depths Of Depravity
+Suspended in Tribulation
+Torn Into Enthrallment
+The Invoking
+Brood Of Hatred
+Funeral Inception
+Devoid Of Truth
+Despise The Sun
+Bloodchurn
+Deceit
+To Weep Once More
+Souls To Deny
+Surgery Of Impalement
+Demise Of The Clone
+Subconsciously Enslaved
+Immortally Condemned
+Tomes Of Acrimony
+Oblivion
+Abomination Reborn
+Redemption
+Bind Torture Kill
+Misconceived
+Translucent Patterns Of Delirium
+Creed Of The Infidel
+Regret
+Entrails Of You
+The End Of Ends
+Blood Oath
+Dismal Dream
+Pray For Forgiveness
+Images Of Purgatory
+Cataclysmic Purification
+Mental Hemorrhage
+Come Hell Or High Priest
+Undeserving
+Provoking The Disturbed
+Cycles Of Suffering
+Purgatorial Punishment
+Eminent Wrath
+As Grace Descends
+Sullen Days
+Pinnacle Of Bedlam
+My Demise
+Inversion
+Rapture Of Revocation
+Clarity Through Deprivation
+The Warmth Within The Dark
+Your Last Breaths
+Return To The Abyss
+The Violation
+Of The Dark Light
+Some Things Should Be Left Alone
+Caught Between Two Worlds
+Go Into The Water
+Awaken
+Go Forth And Die
+Better Metal Snake
+The Lost Vikings
+Briefcase Full Of Guts
+Face Fisted
+Blood Ocean
+Kill You
+Bloodlines
+The Gears
+Burn The Earth
+Laser Cannon Deth Sentence
+Deth Support
+The Cyborg Slayers
+The Water God
+Comet Song
+Symmetry
+Volcano
+I Ejaculate Fire
+Crush The Industry
+Andromeda
+The Galaxy
+Starved
+Ghostqueen
+Impeach God
+Biological Warfare
+Skyhunter
+The Hammer
+Rejoin
+One Of Us Must Die
+Partying Around The World
+How Can I Be A Hero?
+Abigail's Lullaby
+The Duel
+I Believe
+A Traitor Amongst Them
+Do It All For My Brother
+Before You Go
+The Answer Is In Your Past
+The Depths Of Humanity
+Givin' Back To You
+The Crossroads
+Blazing Star
+The DOOMSTAR Orchestra
+But Life Goes On
+Shreds Of Flesh
+The Truth Beyond
+Left Hand Path
+Drowned
+Revel In Flesh
+When Life Has Ceased
+Supposed To Rot
+Bitter Loss
+Morbid Devourment
+Abnormally Deceased
+Carnal Leftovers
+Premature Autopsy
+Living Dead
+Sinners Bleed
+Evilyn
+Blessed Be
+Stranger Aeons
+Chaos Breed
+Crawl
+Severe Burns
+Divine Intent
+Wrought
+Immortality Through Art
+Extinct
+Serpent Headed Mask
+Stones Of Sorrow
+Pestilence And Iniquity
+Opening Of The Mouth
+Beneath Eternal Oceans Of Sand
+Masturbating The War God
+Multitude Of Foes
+Chapter For Transforming Into A Snake
+The Nameless City Of The Accursed
+Godless
+The Blessed Dead
+Execration Text
+Sarcophagus
+Churning The Maelstrom
+Whisper In The Ear Of The Dead
+In Their Darkened Shrines
+Cast Down The Heretic
+Lashed To The Slave Stick
+Annihilation Of The Wicked
+What Can Be Safely Written
+As He Creates So He Destroys
+Eat Of The Dead
+The Essential Salts
+The Infinity Of Stone
+The Language Of The Shadows
+Even The Gods Must Die
+Utterances Of The Crawling Dead
+Those Whom The Gods Detest
+Permitting The Noble Dead To Descend To The Underworld
+Enduring The Eternal Molestation Of Flame
+The Fiends Who Come To Steal The Magick Of The Deceased
+The Inevitable Degradation Of Flesh
+When My Wrath Is Done
+Natural Liberation Of Fear Through The Ritual Deception Of Death
+Tribunal Of The Dead
+Supreme Humanism Of Megalomania
+The Chaining Of The Iniquitous
+Call To Destruction
+What Should Not Be Unearthed
+Evil To Cast Out Evil
+Age Of Famine
+To Walk Forth From Flames Unscathed
+Foul Body Autopsy
+To Breathe In A Casket
+Mutilate The Stillborn
+Intestinal Incubation
+Culinary Hyperversity
+Advanced Corpse Tumor
+Extreme Unction
+Fermented Offal Discharge
+The Eye Of Horus
+Blessed
+The First Damned
+Nine Steps
+Danse Macabre
+Mandatory Suicide
+Winds Of Creation
+Way To Salvation
+Humans Dust
+Dance Macabre
+Perfect Dehumanisation
+Eternity Too Short
+Mother War
+Nihility Anti-Human Manifesto
+Names
+Spheres Of Madness
+Babylon's Pride
+Symmetry Of Zero
+The Fury
+Three-Dimensional Defect
+Lying & Weak
+Sensual Sickness
+The Calling
+The Negation
+Long-Desired Dementia
+The Empty Throne
+Lunatic Of God's Creation
+A Poem About An Old Prison Man
+Revelation Of Existence
+Postorganic
+Visual Delusion
+Invisible Control
+The Knife
+United
+Carnival Is Forever
+Homo Sum
+404
+A View From A Hole
+Pest
+Silence
+Exiled In Flesh
+The Blasphemous Psalm To The Dummy God Creation
+Veins
+Blood Mantra
+Nest
+Instinct
+Blindness
+Red Sun
+Moth Defect
+Impulse
+Deathvaluation
+Kill The Cult
+One-Eyed Nation
+Anger Line
+Earth Scar
+Never
+Amen
+Impotent God
+Suffering Souls
+Nightmare
+Jesus Fall
+God Is A...
+Left To Rot
+Burn By The Cross
+To Escape Is To Die
+Take The Throne
+Penetralia
+Pleasure Of Molestation
+Necronomicon
+Black Metal
+Inferior Devoties
+Infant Sacrifices
+Attachment To The Ancestor
+Mental Emotions
+Inferior Devotees
+Symbol Of Baphomet
+God Is A Lie
+Black Magic
+Apocalypse
+Mind Corruption
+Reincarnation
+Reborn
+Black Forest
+Never To Return
+Path To Babylon
+Slaughtered
+Orgy In Blood
+The North Wind
+The Fourth Dimension
+The Arrival Of The Demons
+The Abyss
+Carved Up
+Request Denied
+Strange Ways
+The Gathering
+Killing Art
+Buried
+Abducted
+Paradox
+Point Of No Return
+When The Candle Fades
+Reflections
+Slipping Away
+Drained
+Inseminated Adoption
+Dominion
+Inquire Within
+Last Vanguard
+Through The Window Of Time
+Adjusting The Sun
+Evil Invaders
+The Final Chapter
+Fractured Millennium
+Apocalyptic Hybrid
+Fusion Programmed Minds
+Elastic Inverted Visions
+Reversed Reflections
+Until The End
+Paranormal Mysteria
+Time Warp
+Disconnected Magnetic Corridors
+Paled Empty Sphere
+Selfinflicted Overload
+Legions Descend
+Blinded
+Resurrected
+Unleash The Beast
+Digital Prophecy
+Fire In The Sky
+Total Eclipse
+Unfold The Sorrow
+Sodomized
+Don't Judge Me
+Destroyed
+Edge Of Madness
+A Public Puppet
+Uncontrolled
+Turn The Page
+Hatred
+Another Dead End For Another Dead Man
+Seeds Of The Chosen One
+Nowhere To Run
+Born Dead, Buried Alive
+Eraser
+Stillborn
+Slave To The Parasites
+New World
+Dead Sky Dawning
+The Departure
+War Within
+Warpath
+Scrutinized
+Fearless
+Craving For Another Killing
+Let The Knife Do The Talking
+A Thousand Lies
+Incised Before I've Ceased
+Blooddrenched
+Compulsive Psychosis
+Living To Die
+Watch Out
+Valley Of The Damned
+Hang Him High
+Solar Empire
+Weed Out The Week
+No Tomorrow
+Global Domination
+Taste The Extreme Divinity
+Alive
+The Quest
+Sky Is Falling Down
+The Sinner
+End Of Disclosure
+Tales Of Thy Spineless
+The Eye
+United We Fall
+Hell Is Where I Stay
+Soldier Of Fortune
+When Death Calls
+The Return
+Swarm Of The Formless
+Hidden In Flesh
+A Presence Inexplicable
+Dirty Priest
+Spawn Of Possession
+Inner Conflict
+Cabinet
+The Forbidden
+Church Of Deviance
+Inception
+Lash By Lash
+Solemn They Await
+Render My Prey
+Eve Of Contempt
+Sour Flow
+By A Thousand Deaths Fulfilled
+Dead & Grotesque
+In My Own Greed
+Scorched
+Where Angels Go Demons Follow
+Bodiless Sleeper
+The Evangelist
+Servitude Of Souls
+Spiritual Deception
+No Light Spared
+Apparition
+Charred Remains
+Service For A Vacant Coffin
+Disembowel
+Gasping For Air
+Ridden With Disease
+Pagan Saviour
+Impending Dread
+Severed Survival
+Critical Madness
+Embalmed
+Stillborn
+Twisted Mess Of Burnt Decay
+In The Grip Of Winter
+Torn From The Womb
+Slaughterday
+Dead
+Robbing The Grave
+Hole In The Head
+Destined To Fester
+Bonesaw
+Dark Crusade
+Mental Funeral
+Meat
+Your Rotting Face
+Blackness Within
+An Act Of The Unspeakable
+Frozen With Fear
+Spinal Extractions
+Death Twitch
+Battery Acid Enema
+Lobotomized
+Tortured Moans Of Agony
+Ugliness And Secretions
+Orgy In Excrements
+Voices
+Walls Of The Coffin
+Deathmask
+Humiliate Your Corpse
+Praise the Children
+The Birthing
+Shit Eater
+I Sodomize Your Corpse
+Geek
+Brain Damage
+Blood Orgy
+No More Hate
+Grave Violators
+I Shit on Your Grave
+An End to the Misery
+Bathe in Fire
+Bowel Ripper
+Burnt to a Fuck
+Excremental Ecstasy
+Hand Of Darkness
+Always About To Die
+Macabre Eternal
+Deliver Me From Sanity
+Seeds Of The Doomed
+Bridge Of Bones
+Born Undead
+Sewn Into One
+Bludgeoned And Brained
+Sadistic Gratification
+Spill My Blood
+All Tomorrow's Funerals
+Broken People
+Mauled To Death
+Maggot Holes
+The Tomb Within
+My Corpse Shall Rise
+Seven Skulls
+Human Genocide
+Mutant Village
+Horrific Obsession
+Feast Of The Graveworm
+Fiend For Blood
+Keeper Of Decay
+Squeal Like A Pig
+Ravenous Freaks
+A Different Kind Of Mindfuck
+Dead Hole
+Retribution For The Dead
+Destined To Fester
+In The Grip Of Winter
+Sign Of The Corpse
+Slaughter At Beast House
+Mangled Far Below
+She Is A Funeral
+Coffin Crawlers
+When Hammer Meets Bone
+Thorns And Ashes
+Arch Cadaver
+Flesh Turns To Dust
+Running From The Goathead
+The Headless Ritual
+Savagery
+King Of Flesh Ripped
+Tourniquets, Hacksaws And Graves
+The Howling Dead
+After The Cutting
+Forever Hungry
+Teeth Of The Shadow Horde
+All Shall Bleed
+Deep Crimson Dreaming
+Parasitic Eye
+Burial
+Autopsy
+Strung Up And Gutted
+Skull Grinder
+Children Of The Filth
+Sanity Bleeds
+The Withering Death
+Waiting For The Screams
+Return To Dead
+Depths Of Dehumanization
+Puncturing The Grotesque
+The Sick Get Sicker
+Gas Mask Lust
+Corpses At War

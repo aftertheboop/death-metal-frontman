@@ -18,3 +18,4 @@ We don't play this one very often, but figured we'd dust it off tonight. This is
 Are you ready to mosh? This is, %s!
 One, Two Three, Four! %s!
 How're you all doin' tonight? You havin' a good time? You want another? Alright, this is %s!
+%s VOTE
